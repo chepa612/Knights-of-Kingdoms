@@ -56,7 +56,7 @@ In Knights of Power ver. 1.0.00, we have:
 ✅ Shop ​🛒​  
 ✅ Free ​💲​  
 ✅ PlayerPrefs backup 💾​  
-🔜 Read the signs ​​🪧​  
+🔜 Read the signs ​​📜​​  
 🔜 Fullscreen / Windowed 💻​  
 🔜 10 levels 🔴  
 ❌ Multiplayer 👥​  

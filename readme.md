@@ -44,19 +44,25 @@ For installing Knights of Power, you will just have to __unzip the _.zip_ file__
 
 ## What we have now ?
 
-✅ A functional game  
-✅ A great medieval ambience  
-✅ 5 levels  
-✅ Sounds effects  
-✅ Music  
-✅ NPC  
-✅ Shop  
-✅ Free  
-🔜 Read the signs  
-🔜 Fullscreen / Windowed  
-🔜 10 levels  
-❌ Multiplayer  
-❌ Online  
+In Knights of Power ver. 1.0.00, we have:
+
+✅ A functional game 🎮  
+✅ A great medieval ambience 👑  
+✅ 2D graphics 👾  
+✅ 5 levels 🟢​  
+✅ Sounds effects 🔊  
+✅ Music 🎶  
+✅ NPC 🗣️​  
+✅ Shop ​🛒​  
+✅ Free ​💲​  
+✅ PlayerPrefs backup 💾​  
+🔜 Read the signs ​​🪧​  
+🔜 Fullscreen / Windowed 💻​  
+🔜 10 levels 🔴  
+❌ Multiplayer 👥​  
+❌ Online 🌐​​  
+❌ Design level selection menu ​✨​  
+❌ 3D graphics 🚀  
 
 ## Acknowledgements
 

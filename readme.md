@@ -1,7 +1,7 @@
 # Knights of Power | 1.0.00
 ![Logo Knights of Power](./Documentation/Images/Logo_trensparent.png)
 
-[Overview](#overview--big-picture) | [Documentation](#documentation) | [Getting started](#getting-started) | [What we have now ?](#what-we-have-now-) | [Acknowledgements](#acknowledgements) | [Credits](#credits) | [How to contribute ?](#how-to-contribute-)
+[Overview](#overview--big-picture) | [Documentation](#documentation) | [Getting started](#getting-started) | [What we have now ?](#what-we-have-now-) | [Acknowledgements](#acknowledgements) | [Credits](#credits) | [How to contribute ?](#how-to-contribute-) | [GitHub](https://github.com/chepa612/Knights-of-Kingdoms/)
 
 ## Overview / Big picture
 

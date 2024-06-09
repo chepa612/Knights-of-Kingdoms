@@ -1,4 +1,4 @@
-# Knights of Power | 1.0.00
+# Knights of Power | ```1.0.00```
 ![Logo Knights of Power](./Documentation/Images/Logo_trensparent.png)
 
 [Overview](#overview--big-picture) | [Documentation](#documentation) | [Getting started](#getting-started) | [What we have now ?](#what-we-have-now-) | [Acknowledgements](#acknowledgements) | [Credits](#credits) | [How to contribute ?](#how-to-contribute-) | [GitHub](https://github.com/chepa612/Knights-of-Kingdoms/)
@@ -40,23 +40,24 @@ The game require __Windows__ with a __64 bits architecture__, nothing else.
 
 ### Installation
 
-For installing Knights of Power, you will just have to __unzip the _.zip_ file__ and __open the _Knights of Power.exe_ file__.
+For installing Knights of Power, you will just have to __unzip the _.zip_ file__ and __open the _``` Knights of Power.exe```_ file__.
+
 
 ###  How to play ?
 
 Action | Key
  :--: | :--: 
-Move _Ephaem_ froward | __[→]__ - __[D]__
-Move _Ephaem_  to the back | __[←]__ - __[Q]__
-Interact with compatible things | __[E]__
-Climb to ladders (after pressing [E]) | __[↑]__ - __[Z]__
-Bring _Ephaem_ back down (after pressing [E]) | __[↓]__ - __[S]__
-Jump | __[SPACE]__
-Open pause menu | __[ESC]__
+Move _Ephaem_ froward | __```→```__ - __```D```__
+Move _Ephaem_  to the back | __```←```__ - __```Q```__
+Interact with compatible things | __```E```__
+Climb to ladders (after pressing ```E```) | __```↑```__ - __```Z```__
+Bring _Ephaem_ back down (after pressing ```E```) | __```↓```__ - __```S```__
+Jump | __```SPACE```__
+Open pause menu | __```ESC```__
 
 ## What we have now ?
 
-In Knights of Power ver. 1.0.00, we have:
+In Knights of Power ver. ```1.0.00```, we have:
 
 ✅ A functional game 🎮  
 ✅ A great medieval ambience 👑  

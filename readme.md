@@ -91,4 +91,4 @@ Thanks to __Zef (TUTOUNITYFR)__ ([YouTube channel](https://www.youtube.com/chann
 
 # How to contribute ?
 
-You can contribute [__here__](https://github.com/chepa612/Knights-of-Kingdoms/discussions/categories/ideas).
+You can share ideas [__here__](https://github.com/chepa612/Knights-of-Kingdoms/discussions/categories/ideas).

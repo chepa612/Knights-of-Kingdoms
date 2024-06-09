@@ -79,7 +79,7 @@ Thanks to __Zef (TUTOUNITYFR)__ ([YouTube channel](https://www.youtube.com/chann
 ### Audio
 
 * _Hero Immortal_ ⇨ By __Trevor Lentz__
-* _Bob's Adventure _ Back34_ ⇨ By __Tom Peter__
+* _Bob's Adventure - Back34_ ⇨ By __Tom Peter__
 * _8-bit sound effects library_ ⇨ By __Little Robot Sound Factory__
 * _End Credits Theme (Farewell)_ ⇨ By __Cleyton Kauffman__
 * _Übermensch [ Main Menu ]_ ⇨ By __Cleyton Kauffman__

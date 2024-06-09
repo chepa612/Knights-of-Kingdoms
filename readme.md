@@ -42,13 +42,25 @@ The game require __Windows__ with a __64 bits architecture__, nothing else.
 
 For installing Knights of Power, you will just have to __unzip the _.zip_ file__ and __open the _Knights of Power.exe_ file__.
 
+###  How to play ?
+
+Action | Key
+ :--: | :--: 
+Move _Ephaem_ froward | __[→]__ - __[D]__
+Move _Ephaem_  to the back | __[←]__ - __[Q]__
+Interact with compatible things | __[E]__
+Climb to ladders (after pressing [E]) | __[↑]__ - __[Z]__
+Bring _Ephaem_ back down (after pressing [E]) | __[↓]__ - __[S]__
+Jump | __[SPACE]__
+Open pause menu | __[ESC]__
+
 ## What we have now ?
 
 In Knights of Power ver. 1.0.00, we have:
 
 ✅ A functional game 🎮  
 ✅ A great medieval ambience 👑  
-✅ 2D graphics 👾  
+✅ 2D and pixelart graphics 👾  
 ✅ 5 levels 🟢​  
 ✅ Sounds effects 🔊  
 ✅ Music 🎶  
@@ -62,11 +74,11 @@ In Knights of Power ver. 1.0.00, we have:
 ❌ Multiplayer 👥​  
 ❌ Online 🌐​​  
 ❌ Design level selection menu ​✨​  
-❌ 3D graphics 🚀  
+❌ 3D and linear graphics 🚀  
 
 ## Acknowledgements
 
-Thanks to __Zef (TUTOUNITYFR)__ ([YouTube channel](https://www.youtube.com/channel/UCJRwb5W4ZzG43J5_dViL6Fw) | [Website](https://www.tutounity.fr/)) for his help on this project
+Thanks to __Zef (@TUTOUNITYFR)__ ([YouTube channel](https://www.youtube.com/channel/UCJRwb5W4ZzG43J5_dViL6Fw) | [Website](https://www.tutounity.fr/)) for his help on this project
 
 ## Credits
 
@@ -88,6 +100,10 @@ Thanks to __Zef (TUTOUNITYFR)__ ([YouTube channel](https://www.youtube.com/chann
 
 * _Pixel Digivolve_ ⇨ By __Pixel Sagas__
 * _Xilosa_ ⇨ By __Atila Milanio__
+
+### Website
+
+By [__HTML5 UP__](https://html5up.net/)
 
 # How to contribute ?
 

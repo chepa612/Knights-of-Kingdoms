@@ -1,7 +1,7 @@
 # Knights of Power | 1.0.00
 ![Logo Knights of Power](./Documentation/Images/Logo_trensparent.png)
 
-[Overview](#overview--big-picture) | [Documentation](#documentation) | [Getting started](#getting-started) | [What we have now ?](#what-we-have-now-) | [Acknowledgements](#acknowledgements) | [Credits](#credits)
+[Overview](#overview--big-picture) | [Documentation](#documentation) | [Getting started](#getting-started) | [What we have now ?](#what-we-have-now-) | [Acknowledgements](#acknowledgements) | [Credits](#credits) | [How to contribute ?](#how-to-contribute-)
 
 ## Overview / Big picture
 
@@ -88,3 +88,7 @@ Thanks to __Zef (TUTOUNITYFR)__ ([YouTube channel](https://www.youtube.com/chann
 
 * _Pixel Digivolve_ ⇨ By __Pixel Sagas__
 * _Xilosa_ ⇨ By __Atila Milanio__
+
+# How to contribute ?
+
+You can contribute [__here__](https://github.com/chepa612/Knights-of-Kingdoms/discussions/categories/ideas).

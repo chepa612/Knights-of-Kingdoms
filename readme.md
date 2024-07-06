@@ -13,7 +13,7 @@ It consist of 5 levels: dry land, underwater...
 The NPCs are members of a civilization of elves.  
 They are:  
 *  Dcopl
-*  Jackie Michel
+*  Zñòdpl
 *  Ragnbjörg
 *  Milartugîah
 *  Bcamoléüs
@@ -65,7 +65,7 @@ In Knights of Power ver. ```1.0.00```, we have:
 ✅ 5 levels 🟢​  
 ✅ Sounds effects 🔊  
 ✅ Music 🎶  
-✅ NPC 🗣️​  
+✅ NPCs 🗣️​  
 ✅ Shop ​🛒​  
 ✅ Free ​💲​  
 ✅ PlayerPrefs backup 💾​  
@@ -101,10 +101,12 @@ Thanks to __Zef (@TUTOUNITYFR)__ ([YouTube channel](https://www.youtube.com/chan
 
 * _Pixel Digivolve_ ⇨ By __Pixel Sagas__
 * _Xilosa_ ⇨ By __Atila Milanio__
+* _Elder Futhark_ ⇨ By __Curtis Clark__
 
 ### Website
+Click [__here__](http://afflaf.fr/fr/Knights-of-Power/) to view our website
 
-By [__HTML5 UP__](https://html5up.net/)
+Created by [__HTML5 UP__](https://html5up.net/)
 
 # How to contribute ?
 

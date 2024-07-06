@@ -74,7 +74,7 @@ In Knights of Power ver. ```1.0.00```, we have:
 🔜 10 levels 🔴  
 ❌ Multiplayer 👥​  
 ❌ Online 🌐​​  
-❌ Design level selection menu ​✨​  
+❌ Beautiful UI ​✨​  
 ❌ 3D and linear graphics 🚀  
 
 ## Acknowledgements

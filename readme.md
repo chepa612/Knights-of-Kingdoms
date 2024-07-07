@@ -1,4 +1,4 @@
-# Knights of Power | ```1.0.00```
+# Knights of Power | ```1.2.0```
 ![Logo Knights of Power](./Documentation/Images/Logo_trensparent.png)
 
 [Overview](#overview--big-picture) | [Documentation](#documentation) | [Getting started](#getting-started) | [What we have now ?](#what-we-have-now-) | [Acknowledgements](#acknowledgements) | [Credits](#credits) | [How to contribute ?](#how-to-contribute-) | [GitHub](https://github.com/chepa612/Knights-of-Kingdoms/)
@@ -57,7 +57,7 @@ Open pause menu | __```ESC```__
 
 ## What we have now ?
 
-In Knights of Power ver. ```1.0.00```, we have:
+In Knights of Power ver. ```1.2.0```, we have:
 
 ✅ A functional game 🎮  
 ✅ A great medieval ambience 👑  
@@ -69,7 +69,7 @@ In Knights of Power ver. ```1.0.00```, we have:
 ✅ Shop ​🛒​  
 ✅ Free ​💲​  
 ✅ PlayerPrefs backup 💾​  
-🔜 Read the signs ​​📜​​  
+✅ Read the signs ​​📜​​  
 🔜 Fullscreen / Windowed 💻​  
 🔜 10 levels 🔴  
 ❌ Multiplayer 👥​  
